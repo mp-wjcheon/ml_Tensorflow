@@ -1,0 +1,6 @@
+print_np
+plot_images(images, cls_true, cls_pred=None):
+new_weights(shape):
+new_biases(length):
+new_con_layer<-new_weight<-new_biases
+
